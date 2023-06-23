@@ -1,0 +1,29 @@
+.card {
+    background-color: rgb(58, 58, 58);
+    color: azure;
+    font-size: 24px;
+}
+
+h5 {
+    font-size: 36px;
+}
+
+body {
+    background-color: rgb(27, 27, 27);
+}
+
+.btn {
+    font-size: 34px;
+}
+
+.navbar {
+    font-size: 36px;
+}
+
+.dropdown-item {
+    font-size: 26px;
+}
+
+.card-img-top {
+    width: 500px;
+}
