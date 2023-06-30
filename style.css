@@ -19,7 +19,7 @@ body {
     font-size: 34px;
 }
 
-.navbar {
+.navbar, .navbar-brand{
     font-size: 36px;
 }
 
