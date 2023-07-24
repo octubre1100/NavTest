@@ -33,3 +33,6 @@ body {
     width: 450px;
     height: 360px;
 }
+.estadoServicios {
+    background-color: rgb(8, 32, 50);
+}
