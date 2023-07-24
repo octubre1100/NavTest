@@ -1,8 +1,9 @@
 .card {
-    background-color: rgb(58, 58, 58);
+    background-color: rgb(8, 32, 50);
     color: azure;
     font-size: 24px;
     margin: 1%;
+    width: 450px;
 }
 
 h5 {
@@ -21,6 +22,7 @@ body {
 
 .navbar, .navbar-brand{
     font-size: 26px;
+    background-color: rgb(26, 26, 64);
 }
 
 .dropdown-item {
@@ -28,6 +30,6 @@ body {
 }
 
 .card-img-top {
-    width: 500px;
+    width: 450px;
     height: 360px;
 }
