@@ -1,6 +1,9 @@
 function noResponde() {
     alert("El sistema no responde")
 }
+function compra() {
+    alert("datos ingresados correctamente")
+}
 let mustang = document.querySelector("#mustang")
 let blancoBt = document.querySelector("#blanco")
 let rojoBt = document.querySelector("#rojo")
