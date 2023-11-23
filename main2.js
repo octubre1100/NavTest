@@ -1,3 +1,9 @@
+function noResponde() {
+    alert("El sistema no responde")
+}
+function compra() {
+    alert("datos ingresados correctamente")
+}
 let nissan = document.querySelector("#nissan")
 let blancoBtNi = document.querySelector("#blancoNi")
 let rojoBtNi = document.querySelector("#rojoNi")
