@@ -25,6 +25,8 @@ rojoBt.onclick = function () {
         colorRojo = true
     }
 }
+
+
 blancoBt.onclick = function () {
     if (colorBlanco == false) {
         mustang.src = "./imgss/mustangBlanco.png"
